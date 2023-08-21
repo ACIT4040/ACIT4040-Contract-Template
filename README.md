@@ -3,7 +3,7 @@
 ## Group member
 Name: Alan Turing
 
-Email: Turing@email.co.uk
+Email: Turing@email.mars
 
 Phone: 114
 
@@ -13,7 +13,10 @@ Phone: 114
 This group intends to make a mega robot capable of securing dominion over Mars
 
 ## Goal
-The primary goal of the mission is the world conquest of Mars
+* The primary goal of the mission is the world conquest of Mars.
+* A secondary goal is that making a mega robot is cool and fun.
+* A secondary goal is to advance the field of bipedal gates development.
+
 
 ## Roles and duties
 [Vlad "the Archivist" Țepeș] is responsible for taking notes during
@@ -24,7 +27,7 @@ The primary goal of the mission is the world conquest of Mars
 
 ## Expectations
 ### Participation 
-Every group member is expected to put in at least 13h/week of activity ...
+Every group member must put in at least [13h/168h] per week of activity ...
 
 If a member cannot meet this expectation, this person is expected to plead for mercy ...
 
