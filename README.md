@@ -2,7 +2,9 @@
 
 ## Group member
 Name:
+
 Email:
+
 Phone:
 
 ## Mission
@@ -13,7 +15,9 @@ The primary goal of the mission is to ....
 
 ## Roles and duties
 [Vlad "the Archivist" Țepeș] is responsible for taking notes during
+
 [Alan "The wielder of the scepter of domination" Turing] is responsible for preparing the backlog
+
 [Wolfgang "the Supreme Psychic" Mozart] is responsible for ensuring attendance and recording absence
 
 ## Expectations
