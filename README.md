@@ -1,17 +1,19 @@
 # ACIT4040 Group X Contract
 
 ## Group member
-Name:
+Name: Alan Turing
 
-Email:
+Email: Turing@email.co.uk
 
-Phone:
+Phone: 114
+
+...
 
 ## Mission
-This group intends to make a .... 
+This group intends to make a mega robot capable of securing dominion over Mars
 
 ## Goal
-The primary goal of the mission is to ....
+The primary goal of the mission is the world conquest of Mars
 
 ## Roles and duties
 [Vlad "the Archivist" Țepeș] is responsible for taking notes during
@@ -24,7 +26,7 @@ The primary goal of the mission is to ....
 ### Participation 
 Every group member is expected to put in at least 13h/week of activity ...
 
-If a member cannot meet this expectation, it is expected that this person...
+If a member cannot meet this expectation, this person is expected to plead for mercy ...
 
 ## Availablitity
 It is expected of every group member to be at some level of availability every day by checking email/teams/tool at least once a day 
@@ -42,7 +44,7 @@ Some level of autonomy is granted to individual tasks, but decisions that affect
 will be taken during the ... meeting. If critical in time, autonomy is granted to the individual, but the choice must be communicated broadly via ... 
 
 ## Code of conduct
-It is expected that all group members respect the [eachother/authority of the the one who holds hegemony]
+It is expected that all group members respect the [each other/authority of the one who holds hegemony]
 
 ## Disagreement resolution
 In the case that there are disagreements in the direction of the project, it is expected that all group members understand that communicate without malice...
