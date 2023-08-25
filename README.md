@@ -15,7 +15,7 @@ This group intends to make a mega robot capable of securing dominion over Mars
 ## Goal
 * The primary goal of the mission is the world conquest of Mars.
 * A secondary goal is that making a mega robot is cool and fun.
-* A secondary goal is to advance the field of bipedal gates development.
+* A secondary goal is to advance the field of bipedal gait development.
 
 
 ## Roles and duties
