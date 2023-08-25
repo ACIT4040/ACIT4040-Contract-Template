@@ -19,9 +19,9 @@ This group intends to make a mega robot capable of securing dominion over Mars
 
 
 ## Roles and duties
-[Vlad "the Archivist" Țepeș] is responsible for taking notes during
+[Vlad "the Archivist" Țepeș] is responsible for taking notes during meetings
 
-[Alan "The wielder of the scepter of domination" Turing] is responsible for preparing the backlog
+[Alan "The wielder of the sceptre of domination" Turing] is responsible for preparing the backlog
 
 [Wolfgang "the Supreme Psychic" Mozart] is responsible for ensuring attendance and recording absence
 
@@ -40,7 +40,7 @@ Primary meetings will be on campus and conducted on Monday and Thursday...
 ### Absence
 In case of a known absence, this must be communicated via [teams/telekenisis] to the [team/ Supreme psychic]
 
-## Decision
+## Decisions
 All decisions that affect the project's direction/integration/outcome will be taken by [the one who has hegemony and is the wielder of the sceptre of domination/by the team during x meeting] ...  
 
 Some level of autonomy is granted to individual tasks, but decisions that affect the project's direction/integration/outcome 
