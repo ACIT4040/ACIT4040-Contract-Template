@@ -31,7 +31,7 @@ Every group member must put in at least [13h/168h] per week of activity ...
 
 If a member cannot meet this expectation, this person is expected to plead for mercy ...
 
-## Availablitity
+### Availablitity
 It is expected of every group member to be at some level of availability every day by checking email/teams/tool at least once a day 
 
 ## Group meetings
