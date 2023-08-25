@@ -31,7 +31,7 @@ Every group member must put in at least [13h/168h] per week of activity ...
 
 If a member cannot meet this expectation, this person is expected to plead for mercy ...
 
-### Availablitity
+### Availability
 It is expected of every group member to be at some level of availability every day by checking email/teams/tool at least once a day 
 
 ## Group meetings
@@ -50,7 +50,7 @@ will be taken during the ... meeting. If critical in time, autonomy is granted t
 It is expected that all group members respect the [each other/authority of the one who holds hegemony]
 
 ## Disagreement resolution
-In the case that there are disagreements in the direction of the project, it is expected that all group members understand that communicate without malice...
+In the case that there are disagreements in the direction of the project, it is expected that all group members understand and communicate without malice...
 
 The disagreement will be resolved with [Thumb war] to the death or by clear victory based on the decision of a temporarily appointed Arbitrator of thumbs
 
