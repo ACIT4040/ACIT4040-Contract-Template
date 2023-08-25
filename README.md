@@ -51,6 +51,7 @@ It is expected that all group members respect the [each other/authority of the o
 
 ## Disagreement resolution
 In the case that there are disagreements in the direction of the project, it is expected that all group members understand that communicate without malice...
+
 The disagreement will be resolved with [Thumb war] to the death or by clear victory based on the decision of a temporarily appointed Arbitrator of thumbs
 
 
